@@ -3,7 +3,7 @@ Nexter is a fictional company for real estate.
 
 The website is a landing page for the company,built as part of advance css and sass course.
 This site was part of the grid practice, and implements advance grid techniques.
-In addition, I've added some Javascript to create more authentic feel to the app (mainly with the messages).
+In addition, I've added some Javascript to create more artisctic feel.
 
 
 ![Nexter](https://user-images.githubusercontent.com/97041347/179048571-9a5f1742-cbe2-45a9-9bd6-4661f2290281.jpg)
